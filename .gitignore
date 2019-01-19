@@ -1,0 +1,4 @@
+*.csproj
+*.suo
+*.meta
+Assets/ProCamera2D/

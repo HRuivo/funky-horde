@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F730C0B5-551F-26A6-FE7E-28FF1E227BE0}") = "Funky Horde", "Assembly-CSharp.csproj", "{F37B26E9-6D68-EA04-2172-8BBE78DF7DB7}"
+EndProject
+Project("{F730C0B5-551F-26A6-FE7E-28FF1E227BE0}") = "Funky Horde", "Assembly-CSharp-Editor.csproj", "{4374B272-88A8-F3D4-4BDD-1EA2F3DF4259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F37B26E9-6D68-EA04-2172-8BBE78DF7DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37B26E9-6D68-EA04-2172-8BBE78DF7DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37B26E9-6D68-EA04-2172-8BBE78DF7DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37B26E9-6D68-EA04-2172-8BBE78DF7DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4374B272-88A8-F3D4-4BDD-1EA2F3DF4259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4374B272-88A8-F3D4-4BDD-1EA2F3DF4259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4374B272-88A8-F3D4-4BDD-1EA2F3DF4259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4374B272-88A8-F3D4-4BDD-1EA2F3DF4259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
