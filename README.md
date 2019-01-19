@@ -26,5 +26,7 @@ Hugo 'HRuivo' Ruivo
 
 ## Version History
 
+* 1.1
+    * Added controls info and updated to Unity3D 2018
 * 1.0
     * Initial Release from previous bitbucket repository
