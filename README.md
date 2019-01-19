@@ -6,6 +6,8 @@ Simple horde mode 2D platformer game made in Unity3D.
 
 Prototype 2D game made using Unity3D game engine that implements a basic horde game mode with different types of enemies coming in waves.
 
+![](funky-horde-gameplay.gif)
+
 ## Getting Started
 
 ### Dependencies
