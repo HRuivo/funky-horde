@@ -10,7 +10,8 @@ Prototype 2D game made using Unity3D game engine that implements a basic horde g
 
 ### Dependencies
 
-* This project makes use of [ProCamera2D](https://assetstore.unity.com/packages/tools/camera/pro-camera-2d-the-definitive-2d-2-5d-unity-camera-plugin-42095) plugin that can be obtained from the Asset Store. (Highly recommended plugin!)
+* This project makes use of [ProCamera2D](https://assetstore.unity.com/packages/tools/camera/pro-camera-2d-the-definitive-2d-2-5d-unity-camera-plugin-42095) plugin that can be obtained from the Asset Store. (Highly recommended plugin!) by [Luis Fonseca](http://www.luispedrofonseca.com/)
+* Already included is the [Grotto Escape](https://assetstore.unity.com/packages/2d/textures-materials/grotto-escape-pack-54254) asset pack from Unity Asset Store by [Ansimuz](http://pixelgameart.org/web/)
 
 ### Installing
 
