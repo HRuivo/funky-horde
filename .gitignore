@@ -2,3 +2,7 @@
 *.suo
 *.meta
 Assets/ProCamera2D/
+Library/
+Temp/
+.vs/
+obj/

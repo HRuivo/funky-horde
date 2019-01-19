@@ -56,7 +56,7 @@ public class Enemy : Character, ILivingCharacter, IPoolItem
         HP = 0;
 
         _renderer.color = Color.gray;
-        _animator.Stop();
+        _animator.enabled = false;
 
         HorderManager.Instance.NotifyEnemyKill();
 
